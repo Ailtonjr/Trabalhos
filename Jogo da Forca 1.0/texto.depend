@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1385483896 source:c:\documents and settings\brix\desktop\c++\texto\main.cpp
+	<iostream>
+	<conio2.h>
+	"forca.h"
+
+1385483613 c:\documents and settings\brix\desktop\c++\texto\forca.h
+
+1385580123 source:c:\users\ailton\downloads\texto\texto\main.cpp
+	<iostream>
+	<conio2.h>
+
+1385767844 source:c:\users\ipotter\desktop\dropbox\trabalhos\algoritimo e programação\jogo da forca\texto\main.cpp
+	<iostream>
+	<conio2.h>
+
+1385783648 source:c:\users\ipotter\desktop\jogo da forca\texto\main.cpp
+	<iostream>
+	<conio2.h>
+
+1385784564 source:c:\users\ipotter\desktop\jogo da forca 1.0\main.cpp
+	<iostream>
+	<conio2.h>
+
+1385831055 source:c:\users\daniel\dropbox\trabalhos ailton-daniel\algoritimo e programação\jogo da forca 1.0\main.cpp
+	<iostream>
+	<conio2.h>
+
+1385834655 source:c:\users\ipotter\desktop\dropbox\trabalhos\algoritimo e programação\jogo da forca 1.0\main.cpp
+	<iostream>
+	<conio2.h>
+
+1385834655 source:c:\users\ailton\desktop\dropbox\trabalhos\algoritimo e programação\jogo da forca 1.0\main.cpp
+	<iostream>
+	<conio2.h>
+
